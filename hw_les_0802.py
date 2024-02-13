@@ -55,7 +55,8 @@ oboi_plochad = oboi_dlina_2 * oboi_shir
 
 print('rulon oboev ', oboi_plochad)
 
-
+kolvo_rul = plochad_room2 / oboi_plochad # poluchaem nujnoe m kolvo
+print('Nujno vsego: ', kolvo_rul)
 
 
 
